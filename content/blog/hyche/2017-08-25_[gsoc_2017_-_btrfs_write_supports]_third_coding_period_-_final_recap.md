@@ -48,7 +48,7 @@ I learn lots of things in this summer!
 Also, thanks to Haiku's mentors, I very appreciate the time you take to mentor and give advices. Although I ran into problem that the abasence of my mentors, but the haiku-gsoc mailing list solved this, I think this is nice and it shows how opensource world operate.
 
 ## Code Archieve
-1.	[Sources that are already be merged](http://cgit.haiku-os.org/haiku/log/?qt=author&q=hyche)
+1.	[Sources that are already be merged](http://cgit.haiku-os.org/haiku.git/log/?qt=author&q=hyche)
 2.	[On-going ticket](https://dev.haiku-os.org/ticket/13612)
 
 

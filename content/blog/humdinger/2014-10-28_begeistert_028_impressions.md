@@ -29,7 +29,7 @@ So, the morning passed quickly and it was time for our talks.
 <h3>1st talk: Webkit</h3>
 
 Adrien Destugues was first, and gave an overview of his recently completed first year of almost-fulltime work, paid by donations through Haiku Inc. As he focused mostly on porting and maintaining WebKit, he started by presenting the history of the Haiku port of it. The beginnings in 2007 by Ryan Leavengood, the work of Maxime Simon for GSoC 2009, improvements by Stephan Aßmus and Alexandre Deckner, and his own efforts with it since then.
-It followed an overview of the components of the WebKit port, the improvements of WebKit2 and the advantages and disadvantages of not going with a port of Firefox or Chromium. One advantage of doing the massive work of the WebKit port stuck out for me, and becomes apparent when following the <a href="https://cgit.haiku-os.org/haiku/log/">commit log</a> over the past years: The WebKit is touching many aspects of the whole operating system. Pretty much every API kit has benefitted from bugfixes and new features, from network to services and support to media and the app_server.
+It followed an overview of the components of the WebKit port, the improvements of WebKit2 and the advantages and disadvantages of not going with a port of Firefox or Chromium. One advantage of doing the massive work of the WebKit port stuck out for me, and becomes apparent when following the <a href="https://cgit.haiku-os.org/haiku.git/log/">commit log</a> over the past years: The WebKit is touching many aspects of the whole operating system. Pretty much every API kit has benefitted from bugfixes and new features, from network to services and support to media and the app_server.
 
 Adrien uploaded his <a href="http://pulkomandy.tk/BG2014/">slides</a> and the <a href="http://youtu.be/sWJ1kDPWq-s">video recording</a> is also online.
 
@@ -74,7 +74,7 @@ Long story short, if you see the benefits of BeGeistert and the Code Sprint, you
 While we're on receiving support, here's a big thank you to Andrew Hudson, who made a generous donation that we're using to pay for all drinks of the code sprinters. What's left will be added to the funds for next year's BeGeistert. Thanks a bunch, Andrew!
 
 Adrien will write up a report of the Code Sprint once they've crossed the finishing line. The number of sprinters increased slightly, by the way: Jonathan Schleifer was able to eek out 2 days of vacation from his new job (well done, mate!), and joins Adrien, Ithamar, Ingo, Colin and Oliver.
-The sprinters in Düsseldorf are joined by virtual BeGeistert Code Sprinters (vBGCS) Rene Gollent and, by taking off early from work when possible, Michael Lotz. Michael already committed a nice fix for a <a href="https://cgit.haiku-os.org/haiku/tag/?id=hrev48100">bug</a> I ran into a few times and Rene is still busy improving the Debugger. And the other Devs that had to leave on the weekend seem to keep it up as well.
+The sprinters in Düsseldorf are joined by virtual BeGeistert Code Sprinters (vBGCS) Rene Gollent and, by taking off early from work when possible, Michael Lotz. Michael already committed a nice fix for a <a href="https://cgit.haiku-os.org/haiku.git/tag/?id=hrev48100">bug</a> I ran into a few times and Rene is still busy improving the Debugger. And the other Devs that had to leave on the weekend seem to keep it up as well.
 Everyone, feel free to join in the fray!
 
 

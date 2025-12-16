@@ -28,7 +28,7 @@ directory layout changes, and making other folders read-only.
 To handle the installation of BeOS Software Valet packages, Haiku has PackageInstaller.
 For a long time this application was neglected. To begin with, it never even worked properly for some software packages.
 (As an example, the only way to get Gobe Productive installed was to manually copy it from a BeOS installation.)
-However, over the past few days Stephan Aßmus (with initial help from Puck Meerburg) has been <a href="https://cgit.haiku-os.org/haiku/log/src/apps/packageinstaller">working on PackageInstaller</a>.
+However, over the past few days Stephan Aßmus (with initial help from Puck Meerburg) has been <a href="https://cgit.haiku-os.org/haiku.git/log/src/apps/packageinstaller">working on PackageInstaller</a>.
 This work centered around dynamically replacing the destination folders with the appropriate Haiku equivalents.
 It can now install Gobe Productive 2.0 (Trial) and reports from IRC mention many other packages working properly!
 </p>
